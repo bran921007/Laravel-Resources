@@ -17,6 +17,8 @@ Contributions are very welcome!
 - [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
 - [Tinkerwell - Laravel Editor](https://tinkerwell.app/)
 - [Expose - Share your Laravel Web App](https://github.com/beyondcode/expose)
+- [Blueprint - Laravel Code Generation tool](https://github.com/laravel-shift/blueprint)
+- [Laravel Packages Useful (paid)](https://codewithdre.com/useful-laravel-packages)
 
 ## Spanish
 - [Laravel Spanish Community](https://laraveles.com/)
