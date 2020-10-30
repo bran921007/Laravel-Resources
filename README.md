@@ -21,4 +21,5 @@ Contributions are very welcome!
 ## Spanish
 - [Laravel Spanish Community](https://laraveles.com/)
 - [Styde - Community and Courses ](https://styde.net/)
+- [Platzi - Laravel Course Advance](https://platzi.com/clases/laravel-avanzado-2020/)
 
