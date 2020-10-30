@@ -16,6 +16,7 @@ Contributions are very welcome!
 - [Envoyer](https://envoyer.com/)
 - [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
 - [Tinkerwell - Laravel Editor](https://tinkerwell.app/)
+- [Expose - Share your Laravel Web App](https://github.com/beyondcode/expose)
 
 ## Spanish
 - [Laravel Spanish Community](https://laraveles.com/)
