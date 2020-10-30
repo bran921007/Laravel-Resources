@@ -11,6 +11,9 @@ Contributions are very welcome!
 - [Laravel Documentation](https://laravel.com/)
 - [Laravel News](https://laravel-news.com/)
 - [Laravel Jobs](https://larajobs.com/)
+- [Laravelshift](https://laravelshift.com/)
+- [Forge](https://forge.com/)
+- [Envoyer](https://envoyer.com/)
 - [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
 ## Spanish
